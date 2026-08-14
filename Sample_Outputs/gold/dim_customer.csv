@@ -1,0 +1,1051 @@
+﻿customer_id,age,gender,income_bracket,loyalty_program,membership_years,churned,marital_status,number_of_children,education_level
+1003,54,Other,Low,No,3,Yes,Divorced,3,PhD
+1018,58,Female,High,Yes,5,No,Married,2,High School
+1020,36,Male,High,Yes,7,Yes,Married,0,High School
+1024,54,Other,Low,No,4,Yes,Single,1,Bachelor's
+1029,44,Female,High,No,4,Yes,Single,0,Master's
+1030,19,Male,High,No,1,Yes,Single,3,Bachelor's
+110,40,Female,Low,No,4,Yes,Divorced,1,High School
+120,70,Male,Medium,Yes,6,Yes,Divorced,3,Bachelor's
+146,52,Male,Low,No,2,No,Married,3,PhD
+149,22,Male,Low,No,2,No,Married,1,Master's
+155,24,Other,High,No,5,No,Married,3,PhD
+156,26,Male,High,No,3,No,Married,4,Master's
+167,52,Female,Medium,No,4,Yes,Divorced,4,PhD
+168,61,Other,Medium,Yes,1,Yes,Single,3,Bachelor's
+178,20,Male,Low,Yes,6,No,Divorced,0,High School
+210,30,Male,Low,No,8,Yes,Married,0,High School
+226,61,Female,Medium,Yes,8,Yes,Single,4,PhD
+245,30,Other,High,No,3,No,Single,0,Bachelor's
+250,25,Male,Medium,No,7,No,Single,2,High School
+296,19,Female,Medium,No,4,Yes,Divorced,0,Master's
+300,49,Female,Medium,No,9,No,Divorced,2,Master's
+318,65,Male,Medium,No,2,No,Single,2,Bachelor's
+321,26,Male,Medium,No,4,Yes,Single,1,High School
+324,23,Other,Medium,Yes,3,No,Divorced,3,Bachelor's
+338,24,Male,High,Yes,0,Yes,Married,1,High School
+340,58,Male,Low,Yes,9,No,Divorced,2,High School
+372,54,Male,High,No,4,Yes,Married,1,High School
+395,57,Female,High,Yes,4,Yes,Divorced,1,Bachelor's
+411,33,Other,Medium,Yes,3,Yes,Single,4,PhD
+434,39,Male,Medium,Yes,5,No,Divorced,0,PhD
+486,50,Female,High,Yes,6,No,Married,3,High School
+487,20,Male,Medium,Yes,2,No,Married,1,High School
+492,71,Other,Low,No,0,Yes,Single,1,Bachelor's
+497,41,Other,High,No,0,No,Single,3,PhD
+501,70,Male,Low,No,4,Yes,Single,1,PhD
+502,39,Female,High,No,9,Yes,Single,3,High School
+504,20,Other,Medium,Yes,7,Yes,Married,1,High School
+510,44,Female,Low,Yes,9,No,Married,3,Bachelor's
+519,68,Other,Medium,No,8,Yes,Single,1,Bachelor's
+56,54,Female,Low,No,1,Yes,Single,0,Bachelor's
+565,58,Other,Low,Yes,0,Yes,Divorced,0,Master's
+597,76,Male,Medium,No,9,No,Divorced,4,High School
+599,20,Other,Medium,No,9,Yes,Single,1,Bachelor's
+616,60,Female,Medium,Yes,3,Yes,Married,3,High School
+632,44,Female,High,No,10,Yes,Divorced,0,Master's
+686,41,Male,Low,Yes,8,Yes,Single,1,Bachelor's
+726,46,Other,High,Yes,6,Yes,Single,3,Bachelor's
+729,28,Male,Low,No,2,No,Single,2,Bachelor's
+73,37,Female,Low,No,4,Yes,Single,4,Bachelor's
+779,59,Female,High,Yes,1,No,Divorced,0,Master's
+799,63,Other,High,No,1,No,Single,3,PhD
+876,66,Female,Low,Yes,9,Yes,Divorced,1,Master's
+889,70,Female,High,Yes,7,No,Married,4,Bachelor's
+890,52,Other,High,No,4,Yes,Divorced,1,High School
+892,40,Male,Medium,No,7,No,Single,3,High School
+909,64,Other,Medium,No,0,Yes,Married,2,Bachelor's
+921,34,Male,High,No,7,Yes,Married,2,PhD
+925,48,Female,Medium,Yes,0,No,Married,1,High School
+967,30,Other,Medium,Yes,8,Yes,Married,3,High School
+974,23,Female,High,Yes,6,No,Single,2,PhD
+1027,30,Male,Low,Yes,8,No,Single,0,Bachelor's
+1042,75,Female,High,Yes,8,Yes,Married,2,High School
+1046,29,Other,High,No,3,Yes,Single,1,Bachelor's
+105,48,Other,Low,Yes,6,No,Single,2,Bachelor's
+125,77,Other,Low,Yes,5,No,Married,2,High School
+127,62,Male,Low,No,3,No,Divorced,3,High School
+132,18,Female,Medium,No,8,Yes,Married,3,Master's
+14,28,Male,Low,No,6,Yes,Single,3,Master's
+143,34,Other,Low,Yes,0,Yes,Married,1,Master's
+153,58,Other,High,No,2,No,Divorced,4,Bachelor's
+154,45,Male,Medium,No,3,No,Single,1,High School
+16,70,Male,Medium,No,9,Yes,Divorced,4,High School
+253,79,Male,High,No,3,No,Divorced,2,High School
+259,41,Female,Medium,No,8,Yes,Single,4,Master's
+273,29,Other,Low,No,0,Yes,Single,2,PhD
+289,40,Female,High,Yes,1,No,Single,2,Master's
+301,23,Female,Medium,Yes,5,Yes,Single,4,Bachelor's
+322,77,Other,Medium,No,6,No,Single,1,Master's
+348,45,Male,Low,Yes,0,No,Single,0,Bachelor's
+35,78,Other,Low,No,1,No,Single,3,Bachelor's
+352,40,Male,Low,Yes,0,Yes,Divorced,3,PhD
+353,48,Male,High,No,4,Yes,Divorced,3,Bachelor's
+364,77,Male,Low,Yes,6,No,Single,3,PhD
+379,36,Female,Low,No,7,Yes,Divorced,0,PhD
+399,65,Male,Medium,Yes,8,Yes,Married,3,Bachelor's
+401,42,Female,High,No,9,No,Single,0,High School
+421,37,Other,Medium,Yes,0,Yes,Married,3,High School
+450,64,Male,Low,No,9,Yes,Divorced,1,Bachelor's
+451,50,Other,Low,No,0,Yes,Single,2,Master's
+471,54,Female,Medium,No,7,No,Single,4,High School
+488,35,Male,Medium,No,6,Yes,Single,1,Master's
+52,72,Male,Medium,Yes,8,Yes,Married,1,Master's
+525,60,Male,Medium,No,3,Yes,Single,0,Bachelor's
+548,54,Male,Low,No,2,No,Single,1,Master's
+55,20,Male,High,No,6,No,Single,1,Bachelor's
+567,73,Female,High,No,8,Yes,Divorced,2,Bachelor's
+62,35,Female,High,No,5,Yes,Divorced,3,PhD
+634,21,Other,Low,No,5,Yes,Divorced,0,PhD
+64,42,Male,Medium,Yes,2,Yes,Divorced,3,Bachelor's
+646,25,Other,Medium,No,6,No,Divorced,1,PhD
+678,42,Female,Low,Yes,0,No,Single,3,High School
+684,71,Female,Medium,No,8,No,Divorced,4,Bachelor's
+704,28,Female,High,Yes,6,Yes,Single,4,PhD
+707,51,Female,High,Yes,5,No,Married,2,Master's
+713,53,Other,High,Yes,10,No,Single,3,PhD
+717,68,Other,High,No,1,Yes,Married,2,Master's
+775,67,Female,Medium,No,1,Yes,Married,1,High School
+776,66,Other,Low,No,2,Yes,Married,2,High School
+777,37,Male,High,No,4,Yes,Married,0,High School
+782,18,Female,Medium,No,7,No,Married,2,Bachelor's
+809,49,Male,Medium,No,5,No,Married,1,Bachelor's
+831,64,Male,Medium,Yes,6,Yes,Single,3,Master's
+847,44,Female,High,Yes,9,Yes,Single,1,Master's
+89,19,Female,High,Yes,8,Yes,Single,4,High School
+904,49,Other,High,Yes,10,Yes,Married,2,PhD
+928,44,Other,Medium,Yes,6,Yes,Divorced,0,Master's
+944,50,Female,High,No,5,No,Married,3,Bachelor's
+95,71,Female,High,Yes,2,Yes,Single,2,High School
+969,61,Female,Medium,No,10,Yes,Single,1,Master's
+973,57,Other,High,No,3,Yes,Single,0,Master's
+985,55,Other,High,No,4,No,Divorced,2,Master's
+1005,48,Male,Medium,Yes,2,No,Married,1,PhD
+1010,76,Female,Medium,No,2,No,Single,2,PhD
+1022,31,Male,Low,No,1,No,Single,2,Master's
+1032,23,Other,Low,No,5,No,Single,2,PhD
+1037,44,Other,Medium,No,8,Yes,Single,2,Master's
+104,31,Other,High,No,2,Yes,Married,1,PhD
+1047,47,Other,Low,Yes,2,Yes,Divorced,2,Master's
+12,40,Female,High,No,2,No,Single,0,High School
+160,50,Male,Low,Yes,5,No,Married,2,High School
+163,40,Other,Low,Yes,9,No,Divorced,3,Master's
+20,20,Male,Low,No,7,No,Single,3,PhD
+200,21,Other,High,No,3,No,Married,3,High School
+27,55,Other,Low,No,8,Yes,Married,3,High School
+294,36,Female,Low,Yes,6,Yes,Divorced,0,PhD
+3,46,Female,Low,No,5,No,Married,3,Bachelor's
+388,41,Other,High,No,5,Yes,Divorced,3,Bachelor's
+397,79,Male,High,No,7,Yes,Single,1,Bachelor's
+428,65,Male,Medium,Yes,8,Yes,Divorced,4,PhD
+473,46,Other,High,No,1,Yes,Divorced,2,High School
+490,59,Male,Low,No,6,Yes,Married,4,High School
+495,57,Male,High,Yes,4,No,Divorced,1,PhD
+496,63,Female,Low,No,5,Yes,Divorced,0,High School
+500,64,Female,Low,Yes,2,No,Married,2,PhD
+521,53,Female,High,No,2,No,Married,2,PhD
+60,26,Female,High,No,6,No,Divorced,2,PhD
+615,55,Male,Medium,No,9,Yes,Divorced,2,Master's
+620,56,Female,High,No,0,Yes,Married,0,PhD
+630,64,Other,Low,No,2,No,Single,2,PhD
+651,48,Female,Medium,No,1,Yes,Divorced,2,PhD
+658,55,Female,High,No,0,No,Married,1,High School
+666,75,Male,High,No,5,No,Single,2,PhD
+68,75,Other,Medium,No,0,No,Married,0,Bachelor's
+680,21,Male,High,No,1,No,Divorced,3,Master's
+695,50,Female,Medium,No,3,No,Single,1,PhD
+702,47,Other,High,Yes,7,No,Divorced,3,High School
+720,52,Female,High,Yes,10,No,Divorced,0,Master's
+763,69,Other,High,Yes,5,Yes,Single,3,PhD
+773,18,Female,Low,Yes,2,Yes,Divorced,4,PhD
+8,38,Other,Low,Yes,2,No,Married,1,Master's
+819,21,Other,High,No,2,No,Single,3,High School
+822,23,Other,Low,No,9,No,Married,0,Bachelor's
+842,39,Male,Medium,No,8,No,Single,3,Bachelor's
+845,75,Female,Low,No,8,No,Divorced,3,High School
+868,26,Male,Medium,Yes,1,No,Married,2,High School
+870,40,Female,Low,Yes,9,No,Single,0,PhD
+872,73,Other,Low,Yes,8,No,Divorced,3,Bachelor's
+911,47,Female,High,Yes,0,No,Single,2,High School
+926,48,Female,Medium,Yes,3,Yes,Single,2,Bachelor's
+927,49,Male,Low,Yes,2,Yes,Single,0,PhD
+970,28,Male,High,Yes,0,Yes,Divorced,0,Bachelor's
+976,32,Female,Medium,No,8,Yes,Single,1,High School
+982,64,Other,Medium,Yes,2,No,Married,4,PhD
+984,57,Other,Low,No,8,No,Divorced,1,Master's
+988,20,Male,Low,No,1,No,Divorced,0,Bachelor's
+10,75,Male,Medium,No,3,No,Married,2,High School
+1000,30,Other,Low,No,7,Yes,Divorced,1,Master's
+1014,49,Other,Low,Yes,1,No,Single,0,Bachelor's
+1041,60,Other,Medium,No,6,Yes,Single,0,Master's
+1044,58,Other,High,No,1,No,Divorced,4,PhD
+108,25,Male,Low,Yes,8,No,Married,1,Bachelor's
+113,79,Male,Low,No,8,No,Single,0,Bachelor's
+115,38,Other,Medium,Yes,0,No,Married,1,Bachelor's
+118,35,Male,Medium,Yes,0,Yes,Single,0,Master's
+124,77,Male,Low,No,5,No,Married,2,Master's
+129,46,Female,High,Yes,9,No,Married,2,Bachelor's
+173,18,Female,Low,Yes,0,Yes,Married,0,High School
+175,54,Female,High,Yes,8,No,Married,0,Bachelor's
+187,32,Other,Medium,Yes,1,No,Married,2,High School
+214,68,Other,Low,Yes,3,Yes,Single,4,High School
+24,41,Male,Low,Yes,8,No,Single,0,High School
+240,74,Female,Low,No,0,Yes,Single,1,PhD
+241,44,Male,Medium,No,7,No,Married,3,Bachelor's
+242,79,Other,High,No,9,No,Married,1,High School
+257,59,Other,Medium,Yes,3,Yes,Married,1,Bachelor's
+268,66,Other,Medium,Yes,3,Yes,Married,0,High School
+30,38,Female,Low,Yes,5,No,Divorced,2,High School
+305,72,Other,Medium,No,0,No,Married,1,PhD
+306,28,Female,Low,No,8,Yes,Divorced,3,PhD
+319,33,Other,Medium,Yes,9,No,Single,4,Master's
+325,33,Male,Medium,Yes,5,Yes,Married,3,PhD
+33,75,Other,High,No,9,Yes,Single,0,High School
+336,37,Male,Low,No,7,Yes,Single,4,High School
+350,42,Other,Low,No,7,Yes,Divorced,0,High School
+366,19,Other,High,Yes,8,Yes,Married,4,Bachelor's
+368,65,Other,Low,Yes,9,Yes,Divorced,2,High School
+384,41,Female,Medium,No,8,No,Single,4,Master's
+406,63,Other,High,Yes,2,No,Married,1,PhD
+414,53,Female,High,Yes,2,No,Divorced,0,Master's
+420,65,Male,Medium,Yes,5,No,Single,3,Master's
+430,76,Male,Low,No,6,No,Single,0,Bachelor's
+441,71,Other,Medium,Yes,8,Yes,Divorced,1,Bachelor's
+444,44,Female,High,Yes,9,Yes,Single,4,High School
+46,79,Female,High,Yes,3,No,Married,1,Master's
+465,63,Female,High,No,4,Yes,Married,2,PhD
+482,78,Male,Medium,Yes,5,Yes,Single,0,Bachelor's
+491,48,Other,High,Yes,8,Yes,Single,0,Bachelor's
+50,68,Male,Medium,Yes,0,No,Single,1,PhD
+515,54,Male,High,No,9,No,Divorced,2,High School
+527,74,Other,Low,Yes,7,No,Divorced,2,High School
+551,35,Male,High,Yes,9,No,Married,1,Master's
+557,46,Other,Medium,Yes,4,No,Married,4,High School
+562,80,Male,Medium,No,0,No,Divorced,2,Bachelor's
+584,22,Other,High,Yes,0,Yes,Single,4,PhD
+6,25,Other,Medium,Yes,4,Yes,Divorced,0,Bachelor's
+612,30,Other,Medium,Yes,6,No,Single,2,PhD
+622,70,Female,Low,Yes,6,No,Divorced,1,High School
+63,21,Male,High,Yes,2,No,Divorced,2,Bachelor's
+639,64,Female,Low,No,6,No,Single,0,Bachelor's
+667,50,Other,Medium,No,5,No,Single,0,Bachelor's
+669,39,Female,Medium,No,5,Yes,Married,0,Bachelor's
+696,63,Other,Medium,No,8,No,Divorced,1,PhD
+708,38,Male,Low,No,7,No,Divorced,0,Bachelor's
+728,63,Other,High,No,7,No,Divorced,0,Master's
+75,64,Male,High,Yes,3,Yes,Divorced,3,Bachelor's
+778,50,Male,Low,No,0,No,Single,3,High School
+82,52,Other,Medium,Yes,4,No,Married,2,Master's
+83,31,Female,High,Yes,1,Yes,Married,2,High School
+844,38,Female,Low,Yes,6,Yes,Single,3,Bachelor's
+854,55,Other,Low,Yes,5,Yes,Divorced,2,High School
+9,56,Female,Low,No,0,No,Single,4,PhD
+908,41,Other,Low,Yes,8,Yes,Divorced,3,PhD
+91,23,Female,High,Yes,0,No,Single,3,PhD
+920,26,Other,Medium,Yes,8,No,Married,4,Master's
+934,51,Female,Low,Yes,2,Yes,Married,4,Bachelor's
+938,28,Other,Low,No,3,No,Married,1,High School
+94,21,Male,Medium,Yes,2,No,Single,4,Bachelor's
+941,23,Female,Low,No,9,Yes,Single,3,Master's
+946,28,Female,Medium,Yes,0,No,Married,4,Master's
+986,68,Male,Medium,Yes,10,Yes,Divorced,0,Master's
+999,74,Female,Medium,Yes,4,Yes,Divorced,2,High School
+1033,20,Other,High,No,6,No,Divorced,0,Master's
+130,32,Male,Low,No,5,No,Single,3,Master's
+179,18,Male,Low,Yes,2,Yes,Single,3,Bachelor's
+193,68,Other,High,No,2,No,Divorced,1,High School
+212,24,Other,High,No,2,No,Divorced,3,PhD
+225,45,Other,High,Yes,7,No,Divorced,0,High School
+258,61,Female,High,Yes,2,Yes,Single,0,High School
+267,69,Male,High,No,1,Yes,Single,2,Master's
+283,76,Female,High,Yes,3,No,Married,0,High School
+307,73,Female,Low,No,9,No,Single,0,PhD
+34,39,Female,High,Yes,0,Yes,Divorced,0,Master's
+346,18,Male,High,Yes,2,No,Divorced,3,Bachelor's
+37,42,Male,Low,No,3,Yes,Married,3,High School
+374,76,Male,Medium,Yes,9,Yes,Divorced,3,High School
+385,71,Male,High,No,6,No,Divorced,4,PhD
+410,52,Male,Medium,Yes,3,No,Divorced,1,Bachelor's
+415,50,Female,High,No,7,Yes,Single,0,Master's
+422,73,Female,Low,Yes,7,No,Married,4,PhD
+433,72,Other,High,Yes,5,No,Married,4,Bachelor's
+469,77,Male,High,No,6,No,Divorced,1,High School
+472,41,Female,High,Yes,7,Yes,Single,3,Bachelor's
+479,77,Female,High,No,2,No,Married,4,Master's
+529,42,Male,High,No,7,Yes,Divorced,1,Bachelor's
+536,47,Other,Low,No,10,Yes,Divorced,0,Bachelor's
+542,57,Female,Low,No,4,Yes,Divorced,2,High School
+563,69,Male,Low,No,8,No,Married,2,Master's
+573,22,Male,High,Yes,9,Yes,Single,4,Bachelor's
+583,74,Female,Low,Yes,2,Yes,Married,2,PhD
+585,75,Male,Low,No,10,Yes,Single,2,PhD
+595,77,Female,Medium,No,6,Yes,Divorced,2,PhD
+603,27,Female,High,Yes,0,No,Divorced,1,Bachelor's
+605,44,Female,Medium,No,7,Yes,Married,0,PhD
+608,57,Other,High,Yes,8,Yes,Divorced,4,High School
+609,34,Male,Medium,No,8,No,Married,2,PhD
+613,41,Other,Low,No,10,Yes,Married,0,High School
+638,63,Male,Medium,Yes,4,Yes,Married,1,Master's
+65,77,Female,Low,No,1,No,Divorced,4,High School
+652,48,Female,High,Yes,0,Yes,Divorced,4,PhD
+674,35,Male,Medium,No,8,Yes,Married,1,High School
+681,50,Other,Low,Yes,7,No,Divorced,4,PhD
+685,69,Female,Low,No,0,No,Single,4,Bachelor's
+692,54,Other,Medium,No,10,Yes,Divorced,1,High School
+694,67,Other,Low,No,2,Yes,Single,1,Master's
+718,60,Other,High,No,4,Yes,Divorced,2,High School
+721,62,Female,Medium,Yes,9,Yes,Married,1,PhD
+725,67,Female,Low,Yes,5,No,Single,1,Master's
+735,20,Female,Low,Yes,6,No,Married,3,High School
+752,19,Female,High,Yes,5,Yes,Divorced,3,Bachelor's
+755,67,Male,High,No,2,Yes,Married,4,Master's
+757,39,Female,High,Yes,6,No,Married,3,Master's
+76,77,Male,Low,Yes,5,Yes,Divorced,1,Bachelor's
+767,76,Other,High,No,8,No,Married,1,High School
+769,33,Male,Medium,No,7,No,Divorced,1,PhD
+783,55,Other,Low,Yes,9,No,Married,1,High School
+787,73,Other,Medium,Yes,4,No,Divorced,4,High School
+796,34,Other,Medium,Yes,2,No,Married,2,High School
+867,59,Male,High,Yes,8,No,Single,0,PhD
+880,31,Female,Medium,Yes,3,Yes,Married,0,PhD
+906,69,Other,Low,Yes,7,Yes,Married,0,PhD
+915,72,Male,Low,Yes,3,Yes,Single,3,Master's
+942,79,Other,Low,Yes,9,No,Single,0,PhD
+953,56,Female,High,Yes,8,Yes,Single,4,Master's
+97,35,Other,Low,Yes,2,Yes,Divorced,0,PhD
+977,18,Female,Low,Yes,9,No,Married,0,Bachelor's
+1007,24,Female,Medium,Yes,5,Yes,Married,3,Master's
+1031,24,Other,High,Yes,9,No,Divorced,0,Bachelor's
+1036,71,Male,Low,No,8,Yes,Single,0,PhD
+1040,50,Other,High,No,7,Yes,Single,3,PhD
+1043,73,Male,High,No,3,Yes,Divorced,0,Bachelor's
+1045,62,Female,Medium,No,3,No,Single,4,High School
+123,42,Male,High,Yes,7,Yes,Single,1,High School
+133,42,Male,Low,Yes,8,No,Single,1,PhD
+138,61,Female,High,Yes,6,Yes,Divorced,1,PhD
+142,68,Female,Medium,No,0,No,Divorced,4,PhD
+165,41,Other,Medium,No,7,No,Single,2,Bachelor's
+169,57,Male,Low,Yes,4,Yes,Single,3,Master's
+188,32,Male,Low,Yes,6,Yes,Single,4,PhD
+19,41,Other,Medium,No,9,Yes,Divorced,0,Bachelor's
+2,69,Female,Medium,No,2,No,Married,2,PhD
+215,39,Male,Medium,Yes,7,No,Single,2,PhD
+22,70,Male,High,No,8,No,Divorced,0,Bachelor's
+220,79,Female,Medium,No,8,No,Married,1,PhD
+25,61,Female,Medium,No,9,Yes,Single,4,PhD
+261,76,Male,Low,No,9,Yes,Married,0,High School
+276,19,Female,Medium,Yes,2,Yes,Divorced,4,High School
+278,66,Male,Low,No,5,No,Divorced,1,Master's
+284,66,Other,Low,No,1,No,Divorced,0,Bachelor's
+298,61,Other,Medium,No,0,No,Married,3,PhD
+323,76,Other,High,No,6,No,Single,2,Bachelor's
+331,53,Other,High,No,5,Yes,Single,2,PhD
+335,36,Other,High,Yes,2,No,Single,2,High School
+337,49,Female,High,No,4,No,Divorced,2,PhD
+351,67,Male,High,Yes,3,Yes,Divorced,4,Master's
+371,22,Male,High,Yes,6,Yes,Married,0,High School
+373,49,Female,Medium,No,3,No,Single,0,High School
+386,73,Male,Medium,No,9,No,Married,1,PhD
+387,50,Female,High,Yes,2,Yes,Married,1,Bachelor's
+405,35,Female,High,No,0,No,Married,4,Bachelor's
+408,19,Other,Medium,No,8,Yes,Single,0,Master's
+427,50,Male,High,No,0,Yes,Married,2,PhD
+460,34,Male,High,Yes,6,Yes,Single,3,Master's
+481,69,Female,High,No,0,No,Married,3,Master's
+509,27,Male,Low,No,3,Yes,Divorced,1,Bachelor's
+520,34,Other,Low,No,1,No,Married,0,PhD
+523,45,Other,Medium,No,9,Yes,Divorced,2,Master's
+544,44,Male,Medium,Yes,6,No,Divorced,0,High School
+558,29,Other,Low,No,0,Yes,Divorced,3,High School
+570,36,Female,Medium,Yes,5,No,Married,2,Bachelor's
+572,65,Other,High,Yes,0,Yes,Divorced,1,PhD
+577,26,Female,Medium,No,10,Yes,Married,3,High School
+580,26,Male,High,No,10,Yes,Single,1,High School
+592,45,Female,Medium,No,8,No,Single,0,PhD
+614,58,Female,Medium,Yes,5,No,Married,2,Bachelor's
+624,66,Male,High,No,4,No,Married,0,PhD
+642,73,Female,Low,Yes,0,No,Married,1,PhD
+679,67,Male,Medium,Yes,5,Yes,Single,3,Master's
+705,72,Other,Low,Yes,9,Yes,Single,2,Bachelor's
+722,45,Male,Medium,Yes,6,No,Divorced,3,PhD
+747,48,Female,High,No,2,No,Divorced,3,Master's
+748,39,Male,Medium,No,7,No,Divorced,2,High School
+749,74,Other,High,Yes,9,No,Single,2,PhD
+756,72,Other,Medium,No,3,Yes,Single,2,High School
+762,40,Female,Medium,Yes,5,Yes,Divorced,1,High School
+781,49,Male,High,No,8,No,Single,4,PhD
+801,36,Female,Medium,No,6,No,Divorced,2,PhD
+820,37,Female,Medium,Yes,4,No,Married,0,High School
+878,53,Female,High,Yes,0,Yes,Married,2,Master's
+881,56,Other,High,No,10,No,Single,4,PhD
+885,75,Male,Low,No,5,No,Single,2,PhD
+888,25,Other,Low,Yes,4,No,Divorced,0,Bachelor's
+914,18,Other,Medium,Yes,10,Yes,Divorced,0,High School
+918,71,Female,Low,No,1,Yes,Single,3,PhD
+932,74,Female,Low,Yes,4,Yes,Divorced,4,Master's
+954,53,Female,High,Yes,0,No,Married,0,High School
+959,51,Female,High,Yes,5,Yes,Divorced,1,PhD
+98,43,Other,Medium,No,4,No,Married,1,Bachelor's
+990,18,Other,Medium,Yes,3,No,Divorced,1,Bachelor's
+1001,43,Male,Medium,Yes,3,Yes,Married,4,High School
+106,65,Female,High,Yes,7,No,Single,2,Bachelor's
+119,64,Other,Medium,Yes,2,No,Married,2,High School
+121,41,Other,High,No,0,No,Single,2,Bachelor's
+126,77,Other,High,No,8,No,Married,0,Master's
+147,50,Female,Medium,No,0,Yes,Married,2,Bachelor's
+150,59,Male,Low,No,8,No,Divorced,2,High School
+158,29,Female,Medium,No,6,Yes,Single,3,High School
+164,79,Female,Low,Yes,5,No,Married,3,High School
+17,53,Female,Medium,Yes,9,Yes,Divorced,1,Bachelor's
+185,44,Male,High,Yes,0,Yes,Married,1,Bachelor's
+186,26,Female,Medium,No,6,Yes,Single,4,Master's
+223,23,Female,High,No,5,No,Married,2,Master's
+269,79,Male,Medium,No,0,No,Married,2,High School
+272,69,Female,Low,No,2,No,Divorced,4,Master's
+277,20,Other,High,Yes,4,No,Divorced,1,High School
+287,45,Female,Medium,Yes,6,No,Married,0,High School
+299,43,Other,Medium,Yes,1,Yes,Single,2,PhD
+309,34,Other,Medium,No,2,Yes,Single,1,Master's
+314,51,Other,Medium,Yes,8,No,Single,2,High School
+341,50,Other,Medium,Yes,9,Yes,Single,4,Bachelor's
+343,56,Other,Medium,Yes,3,Yes,Single,0,PhD
+381,33,Male,High,Yes,5,No,Divorced,3,Master's
+389,69,Female,Medium,Yes,4,Yes,Divorced,3,PhD
+4,32,Female,Low,No,0,No,Divorced,2,Master's
+402,52,Other,Medium,Yes,5,Yes,Divorced,4,Master's
+419,38,Female,High,No,8,Yes,Single,4,Bachelor's
+423,25,Other,Medium,Yes,5,No,Single,4,Master's
+425,20,Male,High,No,9,Yes,Married,1,Bachelor's
+431,68,Other,Medium,Yes,8,No,Single,3,Bachelor's
+436,47,Other,Medium,Yes,8,Yes,Divorced,3,High School
+455,65,Male,Low,Yes,6,Yes,Married,4,Bachelor's
+458,52,Female,Medium,Yes,1,Yes,Married,0,PhD
+464,46,Male,High,Yes,7,No,Divorced,0,PhD
+466,70,Other,Medium,No,1,Yes,Divorced,3,PhD
+47,79,Male,Low,Yes,5,No,Married,0,PhD
+476,70,Other,High,No,4,Yes,Divorced,1,Bachelor's
+49,79,Other,Low,No,9,No,Married,0,PhD
+513,49,Other,Low,No,3,Yes,Single,3,High School
+524,41,Other,High,No,1,Yes,Single,2,Bachelor's
+526,63,Other,Low,Yes,6,Yes,Divorced,2,Bachelor's
+539,80,Female,Low,Yes,0,Yes,Married,3,Master's
+549,64,Male,Low,No,9,No,Divorced,0,High School
+571,51,Other,Medium,No,3,No,Divorced,1,PhD
+587,18,Female,High,Yes,0,Yes,Single,3,High School
+588,22,Male,Medium,No,6,Yes,Single,4,Master's
+629,22,Female,Low,No,6,Yes,Single,2,High School
+637,25,Male,High,No,7,Yes,Single,3,High School
+641,53,Other,Medium,No,6,Yes,Married,0,High School
+647,46,Female,Medium,No,2,No,Divorced,3,Bachelor's
+653,26,Female,Low,Yes,1,Yes,Single,0,High School
+67,67,Other,High,Yes,7,Yes,Married,2,PhD
+670,21,Male,Medium,No,6,Yes,Married,3,High School
+709,55,Other,Low,Yes,5,No,Married,4,Master's
+711,68,Other,Medium,No,1,Yes,Divorced,1,Bachelor's
+724,28,Male,High,No,0,No,Single,3,PhD
+765,41,Male,Medium,No,5,No,Married,0,High School
+788,75,Male,High,Yes,9,No,Divorced,4,Bachelor's
+789,48,Female,High,No,10,Yes,Divorced,1,Master's
+805,53,Female,Medium,Yes,5,No,Married,3,High School
+808,29,Female,Low,Yes,3,No,Single,4,Master's
+843,29,Other,High,No,6,No,Divorced,2,Bachelor's
+856,42,Female,Medium,No,0,Yes,Single,3,Master's
+895,75,Male,High,No,3,No,Divorced,1,High School
+898,65,Male,Low,Yes,6,No,Single,2,Master's
+901,68,Male,High,No,6,No,Single,0,High School
+902,57,Female,High,Yes,4,No,Married,0,High School
+948,45,Male,High,No,9,No,Married,1,Bachelor's
+952,71,Other,Medium,Yes,3,Yes,Divorced,1,High School
+962,18,Other,High,No,5,Yes,Single,3,Bachelor's
+965,61,Female,Low,No,3,Yes,Married,2,Master's
+966,79,Female,Low,No,10,No,Divorced,3,Master's
+983,60,Male,Low,Yes,6,No,Married,3,Bachelor's
+1008,43,Other,High,Yes,10,Yes,Divorced,1,Master's
+1015,46,Male,Low,No,10,No,Divorced,1,PhD
+1016,42,Other,Medium,Yes,1,Yes,Divorced,0,PhD
+1017,43,Other,High,No,5,No,Single,1,PhD
+1023,25,Male,High,No,6,Yes,Single,3,High School
+1026,65,Other,High,Yes,10,Yes,Single,4,Bachelor's
+1028,27,Other,Medium,No,8,Yes,Married,2,Master's
+1034,18,Other,Medium,Yes,0,Yes,Married,4,Bachelor's
+112,74,Female,Medium,No,8,Yes,Single,1,Bachelor's
+13,28,Other,Medium,Yes,7,No,Single,2,Master's
+134,24,Female,Low,Yes,7,Yes,Married,0,High School
+151,56,Male,Medium,No,1,No,Married,3,Bachelor's
+170,39,Other,Low,No,6,No,Married,2,High School
+174,52,Female,High,No,0,No,Single,4,High School
+221,74,Other,Low,No,8,Yes,Divorced,0,Bachelor's
+23,19,Other,Low,No,1,No,Divorced,1,High School
+233,72,Male,Medium,Yes,5,Yes,Divorced,0,Master's
+234,45,Male,Medium,No,3,No,Married,1,Bachelor's
+252,26,Male,Low,Yes,7,No,Single,3,High School
+256,68,Other,Low,Yes,2,Yes,Divorced,3,Bachelor's
+282,34,Female,High,Yes,8,No,Single,4,PhD
+286,19,Female,Low,Yes,8,Yes,Married,0,Master's
+297,70,Female,Medium,No,5,Yes,Married,2,Master's
+320,50,Other,Medium,No,0,No,Single,0,PhD
+329,77,Other,High,Yes,5,Yes,Divorced,4,High School
+358,77,Female,High,Yes,3,No,Divorced,2,Bachelor's
+393,53,Male,High,Yes,1,Yes,Single,0,PhD
+407,35,Male,Medium,Yes,1,No,Single,1,Bachelor's
+42,45,Male,High,Yes,4,Yes,Married,2,Master's
+424,24,Male,High,No,5,No,Divorced,3,High School
+426,34,Female,Medium,Yes,5,Yes,Single,4,Master's
+445,51,Other,Low,No,8,Yes,Married,1,Master's
+463,47,Other,High,Yes,5,Yes,Divorced,0,PhD
+489,42,Male,Medium,Yes,7,No,Married,3,Master's
+533,29,Female,High,No,0,No,Single,2,Bachelor's
+566,67,Female,Low,No,6,No,Divorced,2,PhD
+586,40,Male,Low,Yes,1,Yes,Single,0,Master's
+59,38,Male,High,No,6,No,Divorced,0,Bachelor's
+590,63,Other,High,No,8,Yes,Divorced,2,Bachelor's
+593,74,Male,Low,Yes,4,Yes,Divorced,0,PhD
+606,43,Female,Low,No,6,Yes,Married,4,High School
+619,68,Other,Low,Yes,6,Yes,Single,3,Bachelor's
+654,62,Male,High,Yes,5,Yes,Married,3,High School
+664,21,Other,Low,Yes,6,No,Divorced,3,Bachelor's
+698,48,Female,High,No,1,No,Married,0,Master's
+700,25,Other,Medium,Yes,5,Yes,Single,2,High School
+730,33,Female,High,No,4,Yes,Single,0,PhD
+733,71,Other,High,Yes,1,Yes,Married,4,Master's
+746,49,Female,Medium,No,8,No,Single,4,Bachelor's
+766,71,Female,Medium,Yes,5,No,Single,0,Master's
+78,61,Other,Medium,No,0,Yes,Divorced,4,Bachelor's
+790,50,Male,Low,Yes,3,No,Divorced,1,High School
+792,18,Other,Medium,Yes,3,No,Single,1,Bachelor's
+795,79,Female,Low,Yes,0,No,Divorced,2,Master's
+804,34,Male,High,Yes,9,No,Single,3,PhD
+827,66,Other,High,No,9,No,Single,4,PhD
+837,67,Other,Low,No,1,Yes,Divorced,1,Master's
+838,64,Female,High,No,3,Yes,Married,1,Bachelor's
+84,34,Male,Medium,Yes,0,Yes,Divorced,2,PhD
+840,76,Female,Medium,Yes,2,Yes,Single,2,Bachelor's
+848,57,Other,High,Yes,6,Yes,Married,1,PhD
+855,20,Other,Medium,No,3,No,Divorced,2,Bachelor's
+860,24,Male,Low,Yes,2,Yes,Divorced,3,PhD
+863,76,Male,Medium,Yes,1,Yes,Divorced,2,PhD
+88,21,Male,Low,Yes,7,Yes,Single,4,Bachelor's
+891,67,Other,High,Yes,10,No,Single,4,Master's
+903,64,Other,Low,No,10,Yes,Married,0,Bachelor's
+945,46,Other,Medium,Yes,5,Yes,Divorced,2,High School
+971,53,Female,High,No,6,Yes,Divorced,2,Master's
+989,68,Female,High,No,3,Yes,Married,0,Bachelor's
+993,79,Other,Low,No,9,No,Single,3,Bachelor's
+1,56,Other,High,No,0,No,Divorced,3,Bachelor's
+1013,77,Male,Medium,No,9,Yes,Divorced,1,PhD
+102,79,Other,Medium,No,1,No,Married,2,PhD
+107,32,Other,Low,No,1,Yes,Married,0,Master's
+135,26,Male,High,Yes,3,Yes,Divorced,4,High School
+139,25,Male,Medium,No,1,No,Single,3,PhD
+157,25,Female,High,No,1,Yes,Single,4,Bachelor's
+190,59,Male,High,Yes,7,Yes,Single,3,PhD
+191,77,Male,Low,No,0,No,Single,2,Master's
+201,47,Female,Low,Yes,7,No,Married,0,Master's
+260,32,Other,High,Yes,3,Yes,Divorced,1,PhD
+266,58,Other,Low,No,9,Yes,Divorced,1,High School
+275,56,Other,Low,Yes,3,No,Married,3,Master's
+285,19,Other,Low,Yes,2,Yes,Single,0,Bachelor's
+288,71,Other,Medium,No,8,No,Married,4,Bachelor's
+302,49,Other,Low,Yes,1,No,Divorced,3,Bachelor's
+303,72,Female,Medium,No,7,No,Divorced,0,Bachelor's
+310,55,Female,Low,Yes,7,No,Divorced,0,Master's
+315,23,Female,High,No,6,Yes,Married,2,Bachelor's
+328,37,Female,Medium,Yes,2,Yes,Single,1,Master's
+367,18,Male,Medium,No,8,Yes,Married,4,PhD
+391,66,Female,High,Yes,4,No,Single,4,High School
+412,78,Female,Medium,No,6,Yes,Married,4,Bachelor's
+43,77,Other,High,Yes,3,No,Single,1,PhD
+44,33,Other,Medium,Yes,8,Yes,Divorced,3,PhD
+453,77,Other,Medium,Yes,5,Yes,Divorced,0,PhD
+467,23,Other,Medium,Yes,7,No,Married,0,Bachelor's
+468,52,Male,Low,No,7,No,Single,3,Master's
+483,38,Male,Medium,No,5,No,Single,0,High School
+503,64,Other,Low,Yes,0,Yes,Single,3,PhD
+511,55,Female,Medium,Yes,7,No,Divorced,0,High School
+530,71,Male,Low,Yes,8,No,Married,3,Bachelor's
+554,47,Male,High,Yes,7,No,Divorced,3,High School
+556,28,Other,Medium,No,10,No,Divorced,4,Master's
+569,25,Male,Low,No,2,Yes,Married,4,Master's
+626,66,Female,High,Yes,7,Yes,Married,4,Bachelor's
+633,45,Other,Low,Yes,7,No,Divorced,1,Master's
+635,19,Male,High,No,5,Yes,Single,0,PhD
+675,66,Female,Low,No,2,No,Divorced,2,PhD
+691,20,Other,Medium,Yes,0,Yes,Single,3,Master's
+693,67,Male,Low,No,7,No,Single,1,PhD
+712,46,Male,Low,No,10,No,Single,2,Master's
+731,25,Female,Medium,Yes,7,Yes,Married,3,Master's
+736,74,Other,High,Yes,6,No,Divorced,2,Bachelor's
+738,19,Female,Low,No,0,No,Single,1,High School
+761,51,Other,Low,Yes,7,Yes,Single,3,PhD
+784,37,Other,Low,Yes,6,Yes,Single,2,Bachelor's
+793,21,Male,Medium,Yes,2,No,Married,2,Master's
+80,25,Other,High,No,6,No,Divorced,1,Bachelor's
+814,70,Female,Medium,Yes,5,Yes,Single,3,PhD
+817,74,Other,Medium,Yes,4,No,Married,4,Bachelor's
+829,52,Male,High,Yes,9,Yes,Single,2,PhD
+85,53,Other,Low,No,6,Yes,Single,0,PhD
+851,20,Male,Medium,No,5,No,Single,3,PhD
+862,67,Female,Medium,Yes,10,No,Single,1,Master's
+87,57,Other,Medium,Yes,4,Yes,Married,3,Bachelor's
+871,61,Female,Medium,No,1,Yes,Divorced,3,High School
+873,59,Other,Medium,No,0,No,Married,1,PhD
+886,50,Female,High,Yes,1,Yes,Married,0,PhD
+897,37,Other,Medium,No,8,No,Married,2,PhD
+899,34,Male,Medium,Yes,4,No,Divorced,4,PhD
+922,56,Male,High,Yes,9,No,Divorced,3,Master's
+936,79,Male,Medium,Yes,1,Yes,Married,1,High School
+940,74,Female,Medium,No,0,No,Divorced,2,PhD
+957,70,Female,Medium,No,1,No,Married,3,High School
+1021,34,Other,High,Yes,10,Yes,Divorced,4,PhD
+1048,19,Male,Low,Yes,4,Yes,Divorced,4,PhD
+144,25,Other,High,Yes,8,No,Married,3,Master's
+176,64,Male,High,No,4,No,Divorced,2,Master's
+177,31,Other,High,No,9,Yes,Divorced,2,Master's
+182,72,Male,Low,No,9,No,Single,1,Bachelor's
+204,56,Other,Medium,Yes,8,No,Married,3,High School
+21,39,Female,High,Yes,9,Yes,Divorced,0,PhD
+222,70,Male,Medium,Yes,1,No,Divorced,1,Master's
+224,45,Female,Low,Yes,0,Yes,Single,4,Master's
+228,37,Male,Low,No,6,No,Single,0,Master's
+231,28,Female,High,No,1,No,Single,2,PhD
+237,79,Male,High,Yes,1,No,Married,1,PhD
+251,44,Male,Low,No,1,Yes,Married,1,PhD
+308,76,Other,High,No,2,Yes,Single,1,Bachelor's
+317,28,Other,Low,No,3,No,Single,0,Bachelor's
+326,46,Male,Medium,Yes,1,Yes,Married,0,PhD
+344,35,Other,Medium,No,4,Yes,Married,0,Bachelor's
+345,57,Male,High,Yes,7,Yes,Divorced,4,Bachelor's
+356,52,Male,Low,No,9,No,Single,1,High School
+362,74,Female,Low,No,5,No,Married,0,Bachelor's
+363,69,Female,High,Yes,3,No,Divorced,4,Bachelor's
+398,52,Other,Medium,No,7,Yes,Single,4,PhD
+400,79,Other,High,Yes,1,No,Married,2,Master's
+459,66,Female,Medium,Yes,6,Yes,Single,4,Bachelor's
+48,64,Male,Low,No,3,Yes,Single,0,PhD
+485,40,Other,Low,Yes,1,No,Married,1,Bachelor's
+5,60,Female,Low,Yes,7,Yes,Divorced,2,Bachelor's
+505,59,Female,High,Yes,4,Yes,Divorced,4,Bachelor's
+512,34,Female,Low,No,4,No,Married,1,Bachelor's
+531,22,Other,Low,No,3,No,Divorced,3,Bachelor's
+550,40,Male,High,Yes,8,No,Divorced,3,High School
+559,26,Other,Low,No,1,No,Single,4,High School
+564,56,Male,High,Yes,10,No,Single,1,PhD
+598,46,Male,High,Yes,2,No,Married,2,Bachelor's
+604,48,Female,Medium,Yes,9,Yes,Single,2,Bachelor's
+611,56,Other,Medium,Yes,9,Yes,Married,1,Bachelor's
+644,20,Female,Low,No,5,Yes,Married,2,High School
+648,55,Other,Low,Yes,5,Yes,Married,3,High School
+665,67,Female,High,No,6,Yes,Divorced,4,Master's
+673,60,Male,Low,No,4,No,Married,3,High School
+710,18,Female,Medium,No,8,Yes,Single,1,Master's
+714,39,Male,High,Yes,8,No,Divorced,0,High School
+727,53,Female,Medium,Yes,8,No,Single,4,PhD
+734,20,Other,Medium,Yes,6,Yes,Divorced,4,High School
+742,37,Other,Low,Yes,9,Yes,Divorced,4,Bachelor's
+754,30,Other,Low,No,3,No,Married,3,Master's
+77,24,Other,High,No,8,Yes,Single,3,Bachelor's
+774,32,Other,Low,Yes,0,No,Divorced,3,Bachelor's
+785,21,Female,Medium,Yes,8,Yes,Divorced,0,Master's
+791,47,Other,High,No,10,Yes,Divorced,2,Bachelor's
+800,63,Other,Medium,Yes,4,Yes,Divorced,2,High School
+824,46,Male,High,Yes,10,No,Single,3,Master's
+830,80,Female,High,No,6,Yes,Married,2,PhD
+834,54,Other,Low,Yes,1,Yes,Divorced,0,High School
+849,26,Male,High,Yes,4,Yes,Married,0,High School
+853,43,Other,Medium,Yes,2,No,Divorced,4,Master's
+858,64,Female,Medium,Yes,3,Yes,Married,3,Bachelor's
+865,50,Male,High,No,0,No,Divorced,3,High School
+866,43,Other,Medium,Yes,3,Yes,Married,2,Master's
+883,31,Other,High,No,10,No,Single,3,PhD
+92,71,Other,High,Yes,9,Yes,Married,4,Master's
+93,59,Other,High,No,2,Yes,Single,4,High School
+931,43,Other,Medium,Yes,7,No,Single,1,High School
+939,28,Female,High,No,1,Yes,Married,0,PhD
+963,76,Other,High,No,3,Yes,Single,0,High School
+981,40,Other,Medium,Yes,0,Yes,Single,4,Master's
+987,72,Female,High,Yes,2,No,Single,2,PhD
+1035,36,Other,Medium,No,6,No,Single,1,Bachelor's
+1039,37,Male,High,No,8,No,Divorced,0,PhD
+1049,25,Other,Low,Yes,2,No,Single,0,High School
+122,43,Female,Medium,No,4,Yes,Divorced,4,High School
+136,41,Male,Low,No,0,Yes,Single,2,Master's
+171,44,Female,Medium,No,4,Yes,Divorced,2,Bachelor's
+172,52,Other,Medium,Yes,4,No,Married,1,High School
+183,31,Male,High,No,3,No,Divorced,3,Master's
+198,78,Female,Medium,No,4,No,Married,4,Bachelor's
+211,49,Female,Medium,Yes,9,No,Married,3,Bachelor's
+217,19,Male,Low,Yes,1,Yes,Divorced,2,PhD
+218,59,Male,Low,No,0,No,Married,3,High School
+229,47,Male,Low,No,5,Yes,Single,3,PhD
+244,69,Other,Medium,Yes,8,No,Divorced,4,Master's
+246,58,Male,Medium,No,4,No,Married,3,PhD
+262,71,Other,High,Yes,4,No,Single,2,Master's
+264,49,Female,High,No,2,Yes,Married,3,Master's
+290,54,Female,High,No,8,Yes,Married,2,PhD
+293,18,Other,High,Yes,2,Yes,Married,3,High School
+295,79,Male,Low,No,0,Yes,Married,0,Master's
+31,50,Male,Low,Yes,4,Yes,Married,4,PhD
+339,69,Female,Low,Yes,6,Yes,Married,4,PhD
+36,61,Other,Low,Yes,0,Yes,Married,4,Bachelor's
+380,65,Male,Low,Yes,9,Yes,Divorced,4,PhD
+390,28,Female,Medium,No,4,Yes,Single,1,Bachelor's
+409,71,Male,Low,Yes,9,Yes,Divorced,4,Bachelor's
+413,58,Female,Medium,Yes,5,Yes,Single,3,High School
+446,38,Other,High,Yes,2,No,Divorced,3,High School
+474,66,Other,Low,Yes,4,No,Married,2,PhD
+477,48,Female,Medium,Yes,0,Yes,Single,4,High School
+478,52,Female,Medium,No,4,No,Married,1,Master's
+494,20,Other,Medium,Yes,8,No,Divorced,2,High School
+499,49,Other,High,No,3,No,Divorced,4,Master's
+508,51,Male,High,Yes,4,No,Single,2,High School
+514,58,Other,Medium,No,8,Yes,Divorced,3,Master's
+532,78,Female,High,Yes,0,No,Married,0,Bachelor's
+541,44,Male,Low,No,8,Yes,Divorced,0,High School
+561,55,Male,Low,Yes,4,Yes,Single,0,PhD
+575,75,Female,Low,No,8,No,Divorced,1,Bachelor's
+600,71,Other,Medium,No,3,Yes,Married,0,PhD
+61,56,Female,Medium,No,3,Yes,Divorced,3,PhD
+618,19,Other,High,Yes,10,No,Married,3,Bachelor's
+625,23,Female,High,No,0,No,Married,1,Master's
+649,31,Other,High,Yes,0,No,Married,4,PhD
+657,38,Female,Medium,Yes,4,No,Married,1,High School
+66,31,Male,Low,No,9,Yes,Married,4,Bachelor's
+660,55,Male,Medium,Yes,5,Yes,Divorced,4,Bachelor's
+662,19,Other,Medium,No,9,Yes,Single,0,PhD
+715,78,Other,Medium,Yes,10,Yes,Divorced,3,High School
+732,56,Male,High,No,7,Yes,Single,0,PhD
+768,49,Male,High,No,10,No,Married,4,Bachelor's
+79,78,Female,High,No,3,Yes,Divorced,3,Master's
+797,21,Female,Medium,No,8,No,Divorced,1,Master's
+807,57,Other,High,No,6,Yes,Divorced,1,Master's
+81,64,Other,High,No,1,No,Married,1,Bachelor's
+815,48,Male,Low,No,2,Yes,Married,0,High School
+832,46,Other,High,Yes,0,No,Divorced,4,High School
+833,29,Male,Medium,Yes,1,Yes,Divorced,4,Master's
+835,65,Male,High,No,9,Yes,Single,0,Master's
+846,35,Male,Low,No,8,Yes,Single,4,High School
+864,76,Male,Low,Yes,8,Yes,Married,3,PhD
+869,50,Other,Medium,No,4,No,Married,2,Bachelor's
+893,35,Male,Low,No,7,Yes,Single,3,Bachelor's
+896,45,Female,High,Yes,3,Yes,Married,4,PhD
+90,79,Male,Low,No,1,Yes,Divorced,3,Bachelor's
+919,43,Female,High,No,4,No,Divorced,2,Bachelor's
+930,60,Female,High,No,9,Yes,Married,0,Master's
+933,65,Female,Low,No,10,No,Married,4,Bachelor's
+943,37,Other,High,Yes,2,Yes,Single,1,Master's
+950,54,Other,Low,No,7,No,Married,0,PhD
+978,36,Other,Medium,Yes,8,No,Married,3,PhD
+100,51,Male,Low,Yes,4,Yes,Married,1,High School
+1009,24,Female,Medium,No,3,No,Divorced,3,High School
+101,27,Female,Medium,Yes,8,Yes,Single,2,PhD
+1011,73,Female,High,Yes,5,No,Single,3,PhD
+1012,73,Male,Low,No,10,Yes,Single,4,High School
+103,53,Male,High,Yes,1,No,Divorced,1,Bachelor's
+1050,51,Female,High,Yes,9,No,Single,2,PhD
+11,36,Female,Low,No,1,No,Divorced,1,Bachelor's
+114,57,Other,High,No,4,Yes,Divorced,0,Bachelor's
+117,62,Other,High,Yes,0,Yes,Single,4,Master's
+141,28,Male,Low,No,3,No,Single,0,PhD
+145,52,Other,High,No,7,No,Married,0,PhD
+148,76,Other,High,No,8,Yes,Married,1,Master's
+180,22,Female,Low,Yes,1,Yes,Divorced,1,PhD
+181,43,Female,Low,No,6,Yes,Divorced,4,Bachelor's
+238,50,Male,High,No,2,No,Married,1,High School
+243,74,Female,Low,No,2,Yes,Single,2,Master's
+247,20,Other,Low,No,5,Yes,Single,3,High School
+274,79,Male,Medium,Yes,4,No,Single,3,PhD
+313,69,Female,Low,Yes,9,No,Single,4,PhD
+330,76,Other,Low,No,8,Yes,Divorced,1,PhD
+369,79,Other,High,No,0,No,Single,2,Bachelor's
+38,66,Other,High,No,0,Yes,Married,1,PhD
+40,76,Other,High,Yes,6,No,Single,4,Master's
+417,50,Female,Medium,Yes,4,No,Single,1,Bachelor's
+432,39,Male,Medium,Yes,1,Yes,Married,2,High School
+447,47,Male,Medium,No,9,No,Married,2,Bachelor's
+449,45,Female,High,No,4,Yes,Single,1,High School
+456,36,Female,High,No,2,No,Divorced,3,Master's
+493,75,Other,High,No,3,Yes,Married,0,High School
+51,61,Female,Medium,Yes,2,No,Divorced,0,Master's
+540,74,Female,Medium,Yes,6,No,Single,3,High School
+560,48,Female,Medium,Yes,1,Yes,Divorced,4,High School
+576,50,Other,Medium,No,5,No,Divorced,4,Bachelor's
+579,61,Female,Medium,No,2,Yes,Married,0,Bachelor's
+591,42,Other,Medium,No,1,No,Married,0,PhD
+607,66,Other,High,Yes,10,Yes,Married,1,Bachelor's
+621,37,Male,Low,Yes,6,Yes,Divorced,2,PhD
+631,66,Other,Low,No,0,Yes,Divorced,1,Bachelor's
+643,74,Male,High,Yes,7,Yes,Married,0,PhD
+656,73,Other,Medium,Yes,7,Yes,Divorced,3,High School
+671,76,Male,Low,No,6,No,Divorced,3,Master's
+672,35,Other,Low,No,3,Yes,Single,0,Bachelor's
+682,77,Other,Low,Yes,6,No,Married,1,Bachelor's
+7,78,Male,High,No,0,No,Single,2,Master's
+701,72,Male,Medium,Yes,2,Yes,Married,1,PhD
+716,20,Female,Low,Yes,9,Yes,Married,4,Bachelor's
+760,54,Other,Medium,No,10,Yes,Married,4,Master's
+771,38,Female,Low,No,10,No,Married,3,Master's
+818,40,Female,Low,No,4,No,Single,1,Master's
+894,52,Other,Medium,No,6,No,Married,2,Master's
+916,53,Male,Medium,No,4,No,Married,1,Bachelor's
+964,41,Male,Low,No,9,Yes,Married,2,High School
+968,49,Female,Medium,Yes,1,Yes,Single,3,High School
+997,71,Female,High,No,3,No,Single,2,Master's
+1004,71,Other,Low,No,4,No,Divorced,4,Bachelor's
+111,77,Male,Low,No,5,Yes,Divorced,1,PhD
+137,18,Female,Low,No,5,Yes,Married,2,Master's
+159,51,Male,Medium,No,0,Yes,Single,4,PhD
+194,49,Female,Low,No,1,Yes,Divorced,1,High School
+209,53,Other,High,Yes,0,Yes,Single,4,High School
+213,76,Other,High,No,5,Yes,Married,4,High School
+235,42,Male,High,No,8,No,Divorced,4,Bachelor's
+239,18,Other,Low,Yes,5,Yes,Married,1,Bachelor's
+263,49,Other,Low,Yes,7,Yes,Divorced,4,Bachelor's
+279,54,Female,High,No,2,Yes,Single,0,Master's
+291,49,Female,Low,Yes,3,Yes,Single,2,Master's
+312,22,Female,High,No,6,No,Married,2,High School
+332,36,Other,Medium,Yes,8,No,Single,4,High School
+333,43,Other,Medium,No,2,Yes,Married,4,Bachelor's
+342,57,Male,Low,No,0,Yes,Divorced,4,High School
+349,74,Other,Medium,Yes,1,No,Married,3,PhD
+376,26,Other,Low,Yes,0,Yes,Single,0,Master's
+377,58,Male,High,Yes,9,Yes,Married,3,Master's
+378,52,Male,Low,No,9,No,Divorced,4,Master's
+403,42,Female,High,No,1,Yes,Single,4,Bachelor's
+418,31,Other,Medium,Yes,4,Yes,Married,2,Bachelor's
+443,44,Male,Medium,No,2,No,Divorced,2,High School
+45,32,Female,High,No,1,No,Single,4,Master's
+454,78,Other,Medium,No,0,No,Married,1,Master's
+475,63,Male,Medium,No,0,Yes,Single,3,Master's
+480,50,Other,Low,No,0,No,Divorced,0,Bachelor's
+506,37,Male,High,No,8,Yes,Divorced,1,Bachelor's
+517,47,Male,Low,Yes,6,Yes,Single,3,Master's
+518,38,Other,Medium,No,9,No,Single,2,High School
+535,76,Other,Low,No,10,Yes,Single,4,PhD
+543,42,Female,Low,No,10,No,Divorced,0,High School
+546,43,Other,Medium,Yes,7,Yes,Divorced,1,Master's
+553,60,Female,High,Yes,3,No,Divorced,3,Bachelor's
+57,68,Other,Low,Yes,8,No,Single,3,High School
+574,46,Female,Low,No,7,No,Married,3,PhD
+582,38,Male,Medium,Yes,9,Yes,Single,4,Master's
+627,55,Male,High,No,8,No,Divorced,4,High School
+645,67,Male,Low,No,4,No,Married,1,Bachelor's
+683,30,Other,High,No,8,No,Single,2,PhD
+71,70,Other,Low,Yes,9,Yes,Divorced,0,High School
+72,19,Male,High,Yes,0,No,Married,2,PhD
+723,30,Male,Low,Yes,10,Yes,Single,1,High School
+74,45,Other,Medium,Yes,2,Yes,Single,4,Master's
+759,46,Female,Medium,Yes,10,Yes,Married,1,Master's
+764,59,Other,Low,Yes,1,Yes,Married,4,PhD
+786,61,Other,High,No,8,Yes,Single,3,High School
+850,56,Other,Medium,Yes,1,Yes,Divorced,0,Master's
+857,39,Other,High,No,0,No,Divorced,2,High School
+859,63,Male,Medium,Yes,8,Yes,Divorced,1,Bachelor's
+86,67,Male,Low,No,8,No,Married,4,High School
+861,52,Other,Low,Yes,6,Yes,Divorced,0,High School
+875,59,Female,High,Yes,4,No,Divorced,3,PhD
+887,39,Other,High,No,9,No,Single,3,PhD
+910,80,Other,Medium,No,2,No,Divorced,2,Bachelor's
+912,41,Female,Medium,No,1,No,Married,0,PhD
+913,30,Other,Medium,Yes,0,Yes,Single,1,PhD
+924,32,Other,Low,No,10,Yes,Married,3,Bachelor's
+935,53,Male,High,No,3,Yes,Single,2,Master's
+947,51,Female,Medium,Yes,7,Yes,Married,1,High School
+951,21,Other,Medium,No,6,Yes,Divorced,1,PhD
+979,60,Other,High,No,5,Yes,Divorced,2,Bachelor's
+992,69,Other,Low,No,4,No,Single,0,Master's
+998,36,Male,High,No,1,No,Divorced,2,High School
+1002,72,Other,High,Yes,0,Yes,Divorced,0,Master's
+109,31,Other,High,No,0,Yes,Married,3,Bachelor's
+116,33,Female,Low,No,7,No,Married,2,High School
+161,65,Male,Low,Yes,1,No,Single,0,Master's
+166,54,Female,Low,No,7,No,Divorced,3,Master's
+18,57,Male,Low,No,6,No,Divorced,0,High School
+184,56,Other,Medium,Yes,6,No,Divorced,0,Master's
+196,66,Other,Low,Yes,5,Yes,Single,0,High School
+197,69,Male,Low,No,4,No,Single,4,Bachelor's
+203,40,Male,Medium,Yes,1,No,Divorced,0,Bachelor's
+205,62,Female,Low,No,9,No,Married,4,Bachelor's
+216,45,Other,High,Yes,0,No,Single,4,High School
+219,62,Other,Medium,No,9,No,Married,4,High School
+265,41,Male,Low,Yes,6,Yes,Married,0,Bachelor's
+28,19,Other,Low,Yes,0,No,Married,4,PhD
+281,73,Female,High,No,6,No,Married,4,PhD
+304,21,Other,Low,No,2,Yes,Divorced,2,Bachelor's
+316,39,Other,High,Yes,2,No,Divorced,2,Bachelor's
+32,29,Other,Medium,No,3,No,Married,0,Bachelor's
+334,20,Male,Low,No,4,Yes,Married,4,Bachelor's
+354,47,Female,Medium,Yes,0,Yes,Married,4,Bachelor's
+359,33,Male,Low,Yes,2,No,Single,2,High School
+361,65,Male,High,Yes,9,Yes,Single,3,Master's
+375,72,Male,Medium,No,5,No,Divorced,3,Master's
+396,37,Female,Low,No,5,Yes,Divorced,2,PhD
+404,46,Female,Low,Yes,8,Yes,Married,0,PhD
+429,29,Male,High,Yes,0,No,Married,1,High School
+440,68,Other,High,Yes,8,No,Divorced,4,High School
+461,61,Female,Low,No,9,Yes,Single,1,Bachelor's
+498,67,Other,Medium,No,2,Yes,Divorced,3,Master's
+516,45,Other,Medium,Yes,4,Yes,Married,2,Master's
+522,29,Male,High,No,7,Yes,Divorced,2,High School
+528,78,Female,Low,Yes,5,Yes,Married,0,High School
+552,31,Male,Medium,Yes,3,Yes,Married,4,Master's
+555,80,Male,Medium,No,8,Yes,Single,3,Master's
+578,20,Female,Medium,Yes,1,No,Married,3,Bachelor's
+58,24,Other,Low,No,2,No,Single,1,Master's
+581,21,Male,High,Yes,2,Yes,Single,3,Bachelor's
+589,45,Female,Medium,No,0,No,Married,4,PhD
+596,20,Female,High,No,3,Yes,Married,0,PhD
+601,24,Female,High,Yes,3,Yes,Married,4,Bachelor's
+659,42,Other,High,No,8,Yes,Divorced,4,High School
+688,78,Male,High,No,6,No,Single,0,High School
+719,22,Male,Medium,No,7,No,Married,3,PhD
+739,41,Female,Low,Yes,3,Yes,Divorced,1,PhD
+740,73,Other,Medium,Yes,3,No,Single,1,Master's
+744,47,Other,High,No,8,No,Single,4,High School
+798,59,Other,High,No,1,Yes,Single,1,Master's
+812,54,Female,Low,Yes,4,No,Married,0,Bachelor's
+816,68,Female,Low,No,10,No,Single,2,PhD
+821,75,Other,Low,No,0,No,Single,2,Master's
+823,20,Male,High,Yes,10,No,Married,1,PhD
+826,56,Male,High,Yes,5,No,Married,2,Bachelor's
+841,26,Male,Medium,Yes,3,No,Single,3,PhD
+874,41,Male,Low,No,7,No,Married,3,Master's
+900,37,Female,High,No,2,Yes,Single,3,Master's
+929,50,Other,Medium,No,10,No,Single,2,High School
+937,79,Female,High,No,4,Yes,Married,3,High School
+949,77,Other,Low,Yes,8,Yes,Married,3,Master's
+955,46,Other,Low,Yes,6,No,Divorced,3,Master's
+958,63,Other,Low,No,5,No,Married,3,Bachelor's
+960,43,Male,Low,No,2,No,Divorced,4,Bachelor's
+961,23,Other,High,Yes,4,Yes,Married,2,High School
+980,59,Male,High,No,10,No,Single,0,Master's
+994,61,Female,Low,No,3,Yes,Married,2,Master's
+1006,18,Other,High,Yes,6,No,Divorced,0,Bachelor's
+1019,49,Female,High,No,6,Yes,Divorced,0,PhD
+1025,28,Other,Low,Yes,5,No,Married,2,Master's
+131,62,Other,High,Yes,2,No,Single,2,Master's
+140,41,Other,Low,No,4,Yes,Single,0,Master's
+152,75,Other,Low,No,3,No,Divorced,3,Master's
+189,43,Other,High,No,2,Yes,Single,1,Master's
+195,56,Female,Low,Yes,8,No,Divorced,1,High School
+199,49,Male,High,No,5,No,Married,2,PhD
+202,54,Male,Low,No,4,No,Married,3,Bachelor's
+207,60,Female,High,Yes,5,Yes,Married,0,PhD
+248,56,Other,High,Yes,9,Yes,Married,0,PhD
+254,54,Other,Low,No,8,No,Married,4,High School
+270,66,Other,Medium,No,4,Yes,Married,0,Bachelor's
+271,75,Male,Medium,No,5,No,Married,1,PhD
+29,77,Male,Low,No,7,No,Single,1,Bachelor's
+327,20,Male,High,No,9,Yes,Married,2,High School
+347,28,Other,Low,No,8,Yes,Married,0,High School
+365,66,Male,Low,Yes,4,No,Single,4,High School
+370,29,Male,Medium,Yes,5,No,Married,1,Master's
+392,25,Male,Medium,No,7,No,Single,4,Master's
+394,55,Male,Low,No,9,No,Single,0,Bachelor's
+442,25,Female,Medium,No,4,No,Married,3,High School
+457,21,Female,High,Yes,2,No,Single,1,High School
+462,45,Other,High,No,6,No,Married,4,High School
+470,58,Other,High,Yes,9,No,Single,2,PhD
+484,49,Male,Low,No,9,No,Single,3,High School
+568,73,Female,Medium,No,1,No,Divorced,4,PhD
+594,25,Female,Medium,No,2,Yes,Married,4,Bachelor's
+617,76,Male,Medium,Yes,1,No,Married,2,PhD
+623,74,Other,Low,Yes,9,Yes,Married,2,High School
+628,20,Female,High,No,0,Yes,Divorced,1,Master's
+636,49,Other,Medium,Yes,2,Yes,Married,4,PhD
+640,19,Male,High,Yes,2,No,Married,2,High School
+650,29,Other,Medium,Yes,4,Yes,Married,1,Master's
+668,41,Female,High,No,8,Yes,Divorced,0,PhD
+677,34,Male,High,Yes,4,Yes,Single,0,Master's
+69,26,Male,High,Yes,5,No,Single,4,High School
+690,61,Male,Medium,No,7,Yes,Divorced,1,Bachelor's
+70,43,Other,Medium,No,7,Yes,Single,1,Master's
+703,18,Other,Medium,Yes,10,No,Divorced,3,Master's
+737,79,Other,Medium,No,5,No,Married,3,Bachelor's
+741,28,Male,Medium,No,8,No,Married,0,Master's
+743,23,Male,High,No,10,No,Single,4,PhD
+753,21,Male,Low,Yes,5,Yes,Divorced,4,Master's
+758,35,Female,Medium,No,10,No,Single,1,Master's
+780,41,Other,Medium,Yes,2,No,Divorced,3,Bachelor's
+794,79,Male,Low,Yes,4,No,Single,1,PhD
+802,46,Male,Low,No,6,Yes,Single,2,Bachelor's
+811,59,Female,Medium,Yes,4,Yes,Divorced,4,PhD
+813,59,Other,Low,Yes,8,No,Single,2,Bachelor's
+825,71,Other,High,No,3,No,Divorced,3,PhD
+828,28,Male,Medium,No,5,No,Divorced,3,Bachelor's
+836,64,Female,Low,No,10,Yes,Married,1,PhD
+839,71,Male,Low,No,1,Yes,Divorced,0,Bachelor's
+852,47,Female,Medium,No,9,No,Married,3,High School
+877,35,Male,Medium,No,2,No,Single,1,PhD
+884,65,Male,Medium,No,2,No,Divorced,3,High School
+907,41,Other,Low,Yes,2,Yes,Divorced,0,High School
+923,64,Female,High,No,2,No,Married,2,PhD
+96,46,Other,High,No,1,Yes,Married,1,Bachelor's
+975,54,Other,High,Yes,4,No,Divorced,1,Master's
+99,61,Male,Low,Yes,9,No,Married,1,Master's
+995,32,Other,Low,No,8,No,Single,1,Master's
+1038,66,Other,High,No,9,No,Divorced,3,High School
+128,58,Male,Low,Yes,8,No,Single,4,Bachelor's
+15,41,Male,Medium,No,7,No,Divorced,3,PhD
+162,72,Male,Low,No,5,No,Single,3,PhD
+192,30,Male,Medium,No,1,No,Married,1,Master's
+206,32,Female,Low,No,7,No,Married,2,High School
+208,46,Male,Medium,Yes,8,No,Married,4,PhD
+227,61,Male,High,No,0,Yes,Divorced,3,PhD
+230,79,Male,Low,No,8,Yes,Married,4,Bachelor's
+232,75,Male,Medium,Yes,5,Yes,Divorced,1,Bachelor's
+236,56,Male,Low,No,9,Yes,Married,0,High School
+249,23,Other,High,Yes,8,Yes,Divorced,1,Master's
+255,50,Other,Low,Yes,0,No,Single,4,PhD
+26,47,Male,High,No,4,Yes,Single,0,High School
+280,66,Other,Low,Yes,7,Yes,Married,1,Bachelor's
+292,50,Other,Medium,Yes,0,No,Divorced,2,Master's
+311,41,Female,Medium,No,0,No,Single,2,Bachelor's
+355,59,Female,High,Yes,4,No,Single,1,PhD
+357,24,Other,Medium,Yes,2,No,Single,2,High School
+360,43,Male,High,Yes,4,No,Divorced,1,PhD
+382,20,Female,Medium,Yes,0,No,Single,4,Master's
+383,37,Male,Medium,No,5,No,Divorced,0,PhD
+39,44,Male,Medium,No,4,Yes,Divorced,2,High School
+41,59,Male,High,No,2,No,Married,2,PhD
+416,21,Male,High,Yes,4,Yes,Married,1,Master's
+435,63,Other,Medium,Yes,9,No,Single,1,PhD
+437,55,Female,High,No,7,No,Single,3,High School
+438,55,Male,Medium,Yes,6,Yes,Single,2,Bachelor's
+439,62,Other,Medium,No,5,No,Divorced,3,Bachelor's
+448,50,Male,Medium,No,1,Yes,Divorced,4,High School
+452,22,Male,High,No,5,Yes,Divorced,3,Bachelor's
+507,40,Other,Low,Yes,6,Yes,Single,3,High School
+53,69,Male,High,Yes,5,No,Married,1,High School
+534,57,Other,Low,No,8,No,Married,2,Master's
+537,26,Female,Low,Yes,9,Yes,Single,3,Master's
+538,56,Other,High,Yes,9,No,Divorced,1,PhD
+54,74,Male,Low,No,9,Yes,Divorced,1,Bachelor's
+545,69,Male,Low,No,6,Yes,Married,0,High School
+547,30,Male,Low,Yes,9,No,Single,4,High School
+602,79,Female,Low,Yes,9,No,Married,1,Master's
+610,56,Other,Medium,No,5,Yes,Single,2,Bachelor's
+655,45,Female,High,Yes,7,Yes,Married,4,Bachelor's
+661,41,Female,High,No,10,No,Married,1,High School
+663,61,Other,Medium,Yes,7,Yes,Married,1,High School
+676,29,Male,High,No,10,No,Single,3,PhD
+687,22,Other,High,Yes,1,No,Single,2,Master's
+689,46,Female,High,No,9,No,Single,0,PhD
+697,39,Female,Low,Yes,9,Yes,Single,1,PhD
+699,60,Male,High,Yes,8,Yes,Married,4,PhD
+706,42,Male,Medium,No,0,Yes,Married,3,High School
+745,78,Male,Medium,Yes,5,No,Divorced,1,Master's
+750,29,Male,Low,Yes,8,No,Divorced,0,High School
+751,60,Other,Low,No,5,No,Single,0,PhD
+770,21,Male,Low,No,10,No,Single,3,Bachelor's
+772,38,Female,Medium,No,4,Yes,Single,3,High School
+803,68,Male,Low,No,1,Yes,Married,2,Bachelor's
+806,38,Other,High,No,5,Yes,Married,1,Bachelor's
+810,21,Other,High,Yes,4,No,Married,3,High School
+879,67,Other,High,No,7,No,Single,3,Bachelor's
+882,75,Female,High,Yes,4,Yes,Divorced,4,Bachelor's
+905,53,Male,High,Yes,10,No,Married,2,Bachelor's
+917,27,Male,Medium,No,0,No,Single,0,High School
+956,20,Other,Low,Yes,7,Yes,Divorced,0,PhD
+972,80,Other,Medium,Yes,5,Yes,Single,3,PhD
+991,65,Female,High,Yes,3,Yes,Divorced,3,Master's
+996,49,Male,Medium,No,2,No,Married,3,PhD

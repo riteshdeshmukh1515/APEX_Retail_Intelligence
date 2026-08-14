@@ -1,0 +1,865 @@
+﻿promotion_id,promotion_type,promotion_sk
+1,Buy One Get One Free,1
+10,Flash Sale,2
+100,20% Off,3
+1000,20% Off,4
+101,Flash Sale,5
+103,Buy One Get One Free,6
+104,20% Off,7
+106,Unknown,8
+107,20% Off,9
+108,20% Off,10
+109,Flash Sale,11
+11,Unknown,12
+110,Flash Sale,13
+111,Flash Sale,14
+112,Flash Sale,15
+113,20% Off,16
+114,Flash Sale,17
+115,Flash Sale,18
+116,Buy One Get One Free,19
+118,Unknown,20
+119,Buy One Get One Free,21
+12,Unknown,22
+120,Unknown,23
+121,20% Off,24
+122,Buy One Get One Free,25
+123,Buy One Get One Free,26
+124,Buy One Get One Free,27
+125,Buy One Get One Free,28
+126,Flash Sale,29
+127,20% Off,30
+129,20% Off,31
+13,Buy One Get One Free,32
+130,Flash Sale,33
+131,Unknown,34
+133,20% Off,35
+134,Buy One Get One Free,36
+135,20% Off,37
+136,Flash Sale,38
+138,20% Off,39
+139,Buy One Get One Free,40
+14,Unknown,41
+140,Buy One Get One Free,42
+141,Unknown,43
+142,Flash Sale,44
+143,20% Off,45
+146,20% Off,46
+147,Flash Sale,47
+148,Unknown,48
+149,Buy One Get One Free,49
+15,20% Off,50
+150,Buy One Get One Free,51
+151,Buy One Get One Free,52
+152,20% Off,53
+153,Flash Sale,54
+154,Buy One Get One Free,55
+155,Buy One Get One Free,56
+156,Buy One Get One Free,57
+157,Unknown,58
+158,Flash Sale,59
+159,Unknown,60
+16,Buy One Get One Free,61
+160,Buy One Get One Free,62
+161,20% Off,63
+162,20% Off,64
+164,Flash Sale,65
+165,Flash Sale,66
+166,Unknown,67
+167,Buy One Get One Free,68
+168,20% Off,69
+17,Buy One Get One Free,70
+170,Flash Sale,71
+171,Flash Sale,72
+172,Buy One Get One Free,73
+173,Flash Sale,74
+175,Buy One Get One Free,75
+176,Flash Sale,76
+178,20% Off,77
+179,20% Off,78
+18,20% Off,79
+180,Unknown,80
+182,Flash Sale,81
+183,Flash Sale,82
+184,Buy One Get One Free,83
+185,Buy One Get One Free,84
+186,Flash Sale,85
+187,Flash Sale,86
+188,20% Off,87
+189,Buy One Get One Free,88
+191,20% Off,89
+193,Flash Sale,90
+194,Flash Sale,91
+195,20% Off,92
+196,20% Off,93
+197,Flash Sale,94
+198,20% Off,95
+2,20% Off,96
+20,Unknown,97
+202,Flash Sale,98
+203,20% Off,99
+205,Buy One Get One Free,100
+206,Flash Sale,101
+207,Flash Sale,102
+208,Buy One Get One Free,103
+209,Flash Sale,104
+21,Unknown,105
+210,20% Off,106
+211,Buy One Get One Free,107
+212,20% Off,108
+213,Unknown,109
+215,Unknown,110
+216,Flash Sale,111
+217,20% Off,112
+219,Buy One Get One Free,113
+22,20% Off,114
+220,Unknown,115
+221,Unknown,116
+222,Buy One Get One Free,117
+223,Unknown,118
+224,Unknown,119
+225,20% Off,120
+226,Unknown,121
+228,20% Off,122
+23,Flash Sale,123
+230,Flash Sale,124
+232,20% Off,125
+234,Flash Sale,126
+235,Flash Sale,127
+236,Buy One Get One Free,128
+237,20% Off,129
+238,Flash Sale,130
+239,20% Off,131
+24,Buy One Get One Free,132
+241,20% Off,133
+242,Flash Sale,134
+243,20% Off,135
+244,Flash Sale,136
+245,Unknown,137
+246,Flash Sale,138
+248,Unknown,139
+249,Flash Sale,140
+250,Buy One Get One Free,141
+251,Flash Sale,142
+252,Unknown,143
+253,Buy One Get One Free,144
+255,Buy One Get One Free,145
+257,Buy One Get One Free,146
+258,Flash Sale,147
+259,Buy One Get One Free,148
+26,20% Off,149
+261,Unknown,150
+262,20% Off,151
+263,Buy One Get One Free,152
+264,Buy One Get One Free,153
+265,Flash Sale,154
+266,Flash Sale,155
+267,Unknown,156
+269,Flash Sale,157
+27,Unknown,158
+270,Flash Sale,159
+271,Unknown,160
+272,Unknown,161
+273,20% Off,162
+274,Unknown,163
+275,Flash Sale,164
+276,Buy One Get One Free,165
+277,Unknown,166
+278,20% Off,167
+279,Unknown,168
+28,20% Off,169
+280,Unknown,170
+281,20% Off,171
+282,20% Off,172
+283,20% Off,173
+284,20% Off,174
+285,Buy One Get One Free,175
+286,Buy One Get One Free,176
+287,Flash Sale,177
+288,Buy One Get One Free,178
+289,Unknown,179
+29,20% Off,180
+290,20% Off,181
+291,Unknown,182
+292,20% Off,183
+293,20% Off,184
+294,Unknown,185
+295,Buy One Get One Free,186
+296,Buy One Get One Free,187
+298,Buy One Get One Free,188
+299,Buy One Get One Free,189
+3,Unknown,190
+30,Buy One Get One Free,191
+301,20% Off,192
+302,Flash Sale,193
+303,Flash Sale,194
+304,20% Off,195
+305,Flash Sale,196
+306,Unknown,197
+307,20% Off,198
+308,Buy One Get One Free,199
+309,Buy One Get One Free,200
+310,Flash Sale,201
+311,Unknown,202
+312,Flash Sale,203
+313,20% Off,204
+314,Unknown,205
+315,Unknown,206
+316,Buy One Get One Free,207
+317,20% Off,208
+318,Buy One Get One Free,209
+319,Buy One Get One Free,210
+32,20% Off,211
+321,Flash Sale,212
+322,Flash Sale,213
+323,Buy One Get One Free,214
+324,20% Off,215
+325,20% Off,216
+326,Unknown,217
+327,Buy One Get One Free,218
+328,Unknown,219
+329,Flash Sale,220
+33,20% Off,221
+330,20% Off,222
+332,Flash Sale,223
+333,Buy One Get One Free,224
+334,Buy One Get One Free,225
+335,Flash Sale,226
+336,Unknown,227
+337,Flash Sale,228
+338,Unknown,229
+339,Buy One Get One Free,230
+34,Buy One Get One Free,231
+341,Unknown,232
+342,Buy One Get One Free,233
+343,20% Off,234
+344,20% Off,235
+345,Flash Sale,236
+346,20% Off,237
+347,Flash Sale,238
+348,Buy One Get One Free,239
+349,Unknown,240
+350,20% Off,241
+351,20% Off,242
+352,Buy One Get One Free,243
+353,Flash Sale,244
+354,Flash Sale,245
+355,Flash Sale,246
+356,Flash Sale,247
+357,Buy One Get One Free,248
+358,Unknown,249
+359,Buy One Get One Free,250
+36,Flash Sale,251
+360,20% Off,252
+361,Unknown,253
+362,Flash Sale,254
+363,Flash Sale,255
+364,Buy One Get One Free,256
+365,Buy One Get One Free,257
+368,Flash Sale,258
+369,Buy One Get One Free,259
+37,Flash Sale,260
+370,Flash Sale,261
+371,Unknown,262
+372,20% Off,263
+373,20% Off,264
+374,Unknown,265
+375,Flash Sale,266
+379,Buy One Get One Free,267
+38,20% Off,268
+380,Unknown,269
+381,Unknown,270
+382,Buy One Get One Free,271
+383,Buy One Get One Free,272
+384,Buy One Get One Free,273
+385,Unknown,274
+386,Unknown,275
+387,Flash Sale,276
+388,Flash Sale,277
+389,Buy One Get One Free,278
+39,20% Off,279
+391,Unknown,280
+392,Flash Sale,281
+393,Buy One Get One Free,282
+395,Buy One Get One Free,283
+396,Flash Sale,284
+397,Buy One Get One Free,285
+399,Flash Sale,286
+4,20% Off,287
+40,Flash Sale,288
+400,20% Off,289
+401,Flash Sale,290
+403,Unknown,291
+404,Flash Sale,292
+405,20% Off,293
+406,20% Off,294
+407,Flash Sale,295
+41,Buy One Get One Free,296
+410,Flash Sale,297
+411,20% Off,298
+412,Unknown,299
+413,Flash Sale,300
+414,Flash Sale,301
+415,Flash Sale,302
+416,Buy One Get One Free,303
+417,20% Off,304
+418,20% Off,305
+419,Flash Sale,306
+420,Buy One Get One Free,307
+421,Unknown,308
+422,Unknown,309
+423,Buy One Get One Free,310
+425,20% Off,311
+426,Flash Sale,312
+427,Flash Sale,313
+428,Buy One Get One Free,314
+429,Flash Sale,315
+43,20% Off,316
+430,Unknown,317
+432,20% Off,318
+433,Buy One Get One Free,319
+434,Flash Sale,320
+435,Buy One Get One Free,321
+436,20% Off,322
+437,Flash Sale,323
+438,20% Off,324
+439,Flash Sale,325
+440,Unknown,326
+441,20% Off,327
+443,20% Off,328
+444,20% Off,329
+445,Unknown,330
+446,20% Off,331
+447,20% Off,332
+448,20% Off,333
+45,Buy One Get One Free,334
+450,Flash Sale,335
+451,20% Off,336
+454,20% Off,337
+456,Buy One Get One Free,338
+457,Buy One Get One Free,339
+459,Buy One Get One Free,340
+46,Flash Sale,341
+460,Flash Sale,342
+461,Unknown,343
+462,20% Off,344
+463,20% Off,345
+465,Flash Sale,346
+466,20% Off,347
+467,Buy One Get One Free,348
+468,20% Off,349
+469,Unknown,350
+47,Buy One Get One Free,351
+470,Flash Sale,352
+471,Unknown,353
+472,Unknown,354
+473,20% Off,355
+474,Unknown,356
+475,20% Off,357
+476,Buy One Get One Free,358
+478,Buy One Get One Free,359
+479,20% Off,360
+48,Flash Sale,361
+480,Flash Sale,362
+481,Unknown,363
+482,Flash Sale,364
+483,20% Off,365
+484,Buy One Get One Free,366
+485,Buy One Get One Free,367
+486,Buy One Get One Free,368
+488,20% Off,369
+489,20% Off,370
+490,20% Off,371
+491,Buy One Get One Free,372
+492,Flash Sale,373
+493,Buy One Get One Free,374
+494,Buy One Get One Free,375
+496,Buy One Get One Free,376
+497,Buy One Get One Free,377
+498,Buy One Get One Free,378
+499,Flash Sale,379
+50,Buy One Get One Free,380
+500,Flash Sale,381
+501,20% Off,382
+502,Flash Sale,383
+503,20% Off,384
+504,Buy One Get One Free,385
+505,20% Off,386
+506,Unknown,387
+508,20% Off,388
+509,Flash Sale,389
+51,Flash Sale,390
+511,Buy One Get One Free,391
+512,20% Off,392
+513,Flash Sale,393
+515,20% Off,394
+516,Flash Sale,395
+517,Unknown,396
+518,Buy One Get One Free,397
+519,Buy One Get One Free,398
+52,Flash Sale,399
+520,Unknown,400
+521,Buy One Get One Free,401
+522,Buy One Get One Free,402
+525,Unknown,403
+526,Flash Sale,404
+527,Buy One Get One Free,405
+528,Unknown,406
+53,Buy One Get One Free,407
+530,Flash Sale,408
+531,20% Off,409
+532,20% Off,410
+533,Flash Sale,411
+534,Buy One Get One Free,412
+535,Unknown,413
+537,20% Off,414
+538,Flash Sale,415
+539,20% Off,416
+54,20% Off,417
+540,Buy One Get One Free,418
+541,Flash Sale,419
+543,20% Off,420
+544,Flash Sale,421
+545,20% Off,422
+546,Flash Sale,423
+548,Buy One Get One Free,424
+55,Buy One Get One Free,425
+550,Unknown,426
+551,Flash Sale,427
+552,Buy One Get One Free,428
+553,Buy One Get One Free,429
+554,Flash Sale,430
+555,Unknown,431
+556,Flash Sale,432
+557,20% Off,433
+558,Buy One Get One Free,434
+559,Flash Sale,435
+56,Flash Sale,436
+560,Buy One Get One Free,437
+561,20% Off,438
+562,20% Off,439
+563,Flash Sale,440
+565,20% Off,441
+567,Unknown,442
+568,Buy One Get One Free,443
+569,Flash Sale,444
+57,Buy One Get One Free,445
+570,Buy One Get One Free,446
+573,20% Off,447
+574,Flash Sale,448
+575,Buy One Get One Free,449
+577,20% Off,450
+578,Buy One Get One Free,451
+579,Flash Sale,452
+58,Unknown,453
+580,20% Off,454
+581,Unknown,455
+582,Buy One Get One Free,456
+583,Buy One Get One Free,457
+584,Buy One Get One Free,458
+585,Buy One Get One Free,459
+586,Flash Sale,460
+587,Buy One Get One Free,461
+588,Buy One Get One Free,462
+59,Flash Sale,463
+591,20% Off,464
+592,Unknown,465
+593,Buy One Get One Free,466
+594,20% Off,467
+595,20% Off,468
+596,20% Off,469
+597,Unknown,470
+599,Unknown,471
+60,Buy One Get One Free,472
+600,20% Off,473
+601,Unknown,474
+602,Unknown,475
+603,20% Off,476
+604,Flash Sale,477
+605,Flash Sale,478
+606,Buy One Get One Free,479
+607,Buy One Get One Free,480
+608,20% Off,481
+609,20% Off,482
+61,20% Off,483
+610,Buy One Get One Free,484
+611,20% Off,485
+612,Flash Sale,486
+613,Buy One Get One Free,487
+614,20% Off,488
+615,20% Off,489
+616,20% Off,490
+617,Flash Sale,491
+618,Buy One Get One Free,492
+619,Buy One Get One Free,493
+62,20% Off,494
+620,20% Off,495
+622,Buy One Get One Free,496
+623,Buy One Get One Free,497
+624,Buy One Get One Free,498
+625,Flash Sale,499
+626,Unknown,500
+627,Buy One Get One Free,501
+628,Unknown,502
+629,Flash Sale,503
+63,Flash Sale,504
+630,Flash Sale,505
+631,Flash Sale,506
+632,Buy One Get One Free,507
+633,Buy One Get One Free,508
+634,Flash Sale,509
+635,Flash Sale,510
+636,Buy One Get One Free,511
+637,Unknown,512
+638,Flash Sale,513
+639,Flash Sale,514
+64,20% Off,515
+640,Unknown,516
+641,20% Off,517
+642,Flash Sale,518
+643,Buy One Get One Free,519
+644,20% Off,520
+645,20% Off,521
+646,Buy One Get One Free,522
+647,Flash Sale,523
+648,Buy One Get One Free,524
+649,Buy One Get One Free,525
+65,Buy One Get One Free,526
+650,20% Off,527
+651,20% Off,528
+652,Buy One Get One Free,529
+654,20% Off,530
+656,Buy One Get One Free,531
+659,Flash Sale,532
+66,20% Off,533
+660,Buy One Get One Free,534
+661,Unknown,535
+662,Buy One Get One Free,536
+663,Flash Sale,537
+664,Buy One Get One Free,538
+665,Unknown,539
+666,Flash Sale,540
+667,Flash Sale,541
+668,Buy One Get One Free,542
+669,Buy One Get One Free,543
+67,Buy One Get One Free,544
+670,20% Off,545
+671,Buy One Get One Free,546
+673,20% Off,547
+674,Flash Sale,548
+675,Buy One Get One Free,549
+676,Unknown,550
+677,Buy One Get One Free,551
+678,Buy One Get One Free,552
+68,Buy One Get One Free,553
+680,Flash Sale,554
+681,20% Off,555
+682,Buy One Get One Free,556
+683,Flash Sale,557
+684,Buy One Get One Free,558
+685,Unknown,559
+686,Flash Sale,560
+687,Buy One Get One Free,561
+688,20% Off,562
+689,Flash Sale,563
+69,Unknown,564
+690,Buy One Get One Free,565
+691,Unknown,566
+692,Buy One Get One Free,567
+693,20% Off,568
+695,20% Off,569
+696,Buy One Get One Free,570
+697,Buy One Get One Free,571
+698,Flash Sale,572
+699,Buy One Get One Free,573
+7,Buy One Get One Free,574
+700,20% Off,575
+701,Buy One Get One Free,576
+702,Unknown,577
+703,Unknown,578
+704,Flash Sale,579
+705,Buy One Get One Free,580
+706,20% Off,581
+707,20% Off,582
+708,Flash Sale,583
+709,Flash Sale,584
+71,Flash Sale,585
+710,20% Off,586
+711,Buy One Get One Free,587
+712,Unknown,588
+713,Buy One Get One Free,589
+714,Flash Sale,590
+715,Flash Sale,591
+716,Unknown,592
+718,Flash Sale,593
+719,Buy One Get One Free,594
+72,Buy One Get One Free,595
+722,Buy One Get One Free,596
+723,Buy One Get One Free,597
+725,20% Off,598
+726,Flash Sale,599
+727,Flash Sale,600
+728,20% Off,601
+729,20% Off,602
+73,Unknown,603
+730,20% Off,604
+731,Flash Sale,605
+732,Buy One Get One Free,606
+733,20% Off,607
+734,Unknown,608
+735,20% Off,609
+736,20% Off,610
+737,Flash Sale,611
+738,Flash Sale,612
+739,Buy One Get One Free,613
+74,Unknown,614
+741,20% Off,615
+742,20% Off,616
+743,Unknown,617
+745,Flash Sale,618
+746,Buy One Get One Free,619
+747,20% Off,620
+748,Buy One Get One Free,621
+75,Buy One Get One Free,622
+750,20% Off,623
+751,Unknown,624
+752,Unknown,625
+753,Buy One Get One Free,626
+754,20% Off,627
+756,Unknown,628
+757,20% Off,629
+758,Buy One Get One Free,630
+759,Unknown,631
+761,Flash Sale,632
+762,Buy One Get One Free,633
+763,Unknown,634
+764,Buy One Get One Free,635
+766,20% Off,636
+767,Buy One Get One Free,637
+768,Buy One Get One Free,638
+769,Buy One Get One Free,639
+77,Unknown,640
+770,Unknown,641
+771,Buy One Get One Free,642
+772,Unknown,643
+773,Flash Sale,644
+774,20% Off,645
+775,20% Off,646
+776,20% Off,647
+778,Flash Sale,648
+779,Flash Sale,649
+78,Flash Sale,650
+780,20% Off,651
+781,Buy One Get One Free,652
+782,Flash Sale,653
+783,Buy One Get One Free,654
+784,Flash Sale,655
+785,20% Off,656
+786,20% Off,657
+787,Unknown,658
+788,20% Off,659
+789,Flash Sale,660
+79,Buy One Get One Free,661
+790,20% Off,662
+791,20% Off,663
+792,Unknown,664
+793,20% Off,665
+795,Buy One Get One Free,666
+796,Flash Sale,667
+797,20% Off,668
+798,Unknown,669
+799,Flash Sale,670
+8,20% Off,671
+80,20% Off,672
+800,Flash Sale,673
+801,20% Off,674
+802,Buy One Get One Free,675
+803,Buy One Get One Free,676
+805,Buy One Get One Free,677
+806,20% Off,678
+807,Unknown,679
+808,Buy One Get One Free,680
+809,Flash Sale,681
+81,Buy One Get One Free,682
+810,20% Off,683
+811,Flash Sale,684
+812,20% Off,685
+814,Buy One Get One Free,686
+815,20% Off,687
+816,Buy One Get One Free,688
+817,Flash Sale,689
+818,Flash Sale,690
+819,Flash Sale,691
+82,20% Off,692
+820,Buy One Get One Free,693
+821,20% Off,694
+822,Flash Sale,695
+823,20% Off,696
+824,Buy One Get One Free,697
+825,Buy One Get One Free,698
+826,Unknown,699
+827,Unknown,700
+828,Unknown,701
+829,20% Off,702
+83,20% Off,703
+830,20% Off,704
+831,Buy One Get One Free,705
+832,Buy One Get One Free,706
+833,Flash Sale,707
+834,Buy One Get One Free,708
+835,Buy One Get One Free,709
+836,Flash Sale,710
+837,Flash Sale,711
+838,Flash Sale,712
+839,20% Off,713
+840,Flash Sale,714
+841,Buy One Get One Free,715
+842,Unknown,716
+843,20% Off,717
+844,Buy One Get One Free,718
+845,Flash Sale,719
+846,20% Off,720
+848,20% Off,721
+849,Unknown,722
+85,20% Off,723
+850,Flash Sale,724
+851,Buy One Get One Free,725
+852,Flash Sale,726
+853,20% Off,727
+856,Unknown,728
+857,Unknown,729
+858,20% Off,730
+859,Buy One Get One Free,731
+86,Buy One Get One Free,732
+860,Buy One Get One Free,733
+862,Flash Sale,734
+863,Buy One Get One Free,735
+864,Flash Sale,736
+865,Unknown,737
+866,20% Off,738
+867,Buy One Get One Free,739
+868,20% Off,740
+869,20% Off,741
+87,20% Off,742
+871,Flash Sale,743
+872,Buy One Get One Free,744
+873,Flash Sale,745
+874,Unknown,746
+875,20% Off,747
+876,20% Off,748
+877,20% Off,749
+878,20% Off,750
+879,Flash Sale,751
+88,Buy One Get One Free,752
+881,Buy One Get One Free,753
+884,Flash Sale,754
+885,Flash Sale,755
+886,Flash Sale,756
+887,Flash Sale,757
+888,20% Off,758
+89,Unknown,759
+890,Buy One Get One Free,760
+891,20% Off,761
+892,Flash Sale,762
+893,Flash Sale,763
+894,20% Off,764
+895,Buy One Get One Free,765
+896,20% Off,766
+897,20% Off,767
+898,20% Off,768
+899,Buy One Get One Free,769
+9,Flash Sale,770
+90,20% Off,771
+902,Buy One Get One Free,772
+903,Buy One Get One Free,773
+904,Buy One Get One Free,774
+905,20% Off,775
+906,Flash Sale,776
+907,Flash Sale,777
+908,Flash Sale,778
+91,Flash Sale,779
+910,Flash Sale,780
+911,Buy One Get One Free,781
+912,Unknown,782
+913,Buy One Get One Free,783
+914,Buy One Get One Free,784
+915,20% Off,785
+916,20% Off,786
+917,Unknown,787
+918,Unknown,788
+919,20% Off,789
+92,20% Off,790
+920,Buy One Get One Free,791
+921,20% Off,792
+922,Flash Sale,793
+923,20% Off,794
+924,Flash Sale,795
+926,20% Off,796
+927,20% Off,797
+928,20% Off,798
+929,Flash Sale,799
+93,Unknown,800
+930,Flash Sale,801
+933,Flash Sale,802
+934,Buy One Get One Free,803
+935,20% Off,804
+936,Buy One Get One Free,805
+937,20% Off,806
+938,Buy One Get One Free,807
+939,Flash Sale,808
+94,20% Off,809
+940,Unknown,810
+941,Buy One Get One Free,811
+942,20% Off,812
+943,Buy One Get One Free,813
+944,Unknown,814
+945,Buy One Get One Free,815
+946,Flash Sale,816
+947,Flash Sale,817
+949,Unknown,818
+95,20% Off,819
+951,Unknown,820
+952,20% Off,821
+953,Unknown,822
+954,Buy One Get One Free,823
+955,Buy One Get One Free,824
+958,Flash Sale,825
+959,20% Off,826
+96,Flash Sale,827
+960,20% Off,828
+961,Buy One Get One Free,829
+963,Flash Sale,830
+964,Buy One Get One Free,831
+965,20% Off,832
+966,20% Off,833
+967,Flash Sale,834
+969,Buy One Get One Free,835
+97,Unknown,836
+971,Unknown,837
+972,20% Off,838
+973,Unknown,839
+974,Buy One Get One Free,840
+975,Unknown,841
+976,20% Off,842
+977,20% Off,843
+978,Flash Sale,844
+979,Buy One Get One Free,845
+98,20% Off,846
+980,Buy One Get One Free,847
+981,Unknown,848
+982,20% Off,849
+983,Unknown,850
+984,20% Off,851
+985,Flash Sale,852
+986,Flash Sale,853
+988,20% Off,854
+989,Flash Sale,855
+99,Buy One Get One Free,856
+991,Buy One Get One Free,857
+992,Buy One Get One Free,858
+993,Flash Sale,859
+994,Buy One Get One Free,860
+996,Flash Sale,861
+997,Flash Sale,862
+998,20% Off,863
+999,Flash Sale,864

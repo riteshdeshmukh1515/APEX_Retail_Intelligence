@@ -1,0 +1,10 @@
+customer_state,loyalty_program,total_customers,churned_customers,churn_rate_pct
+State X,Yes,161,89,55.28
+State Z,Yes,161,84,52.17
+State Y,Yes,180,92,51.11
+State X,No,201,98,48.76
+State Z,No,180,85,47.22
+State Y,No,164,71,43.29
+Old_State_2,No,1,0,0.00
+State IL,No,1,0,0.00
+Old_State_1,No,1,0,0.00

@@ -1,0 +1,7 @@
+table_name,entity,expected_row_count,actual_row_count,status,run_timestamp
+customer_historical,customer,1052,1052,PASS,2026-08-14T08:48:01
+customer_incremental,customer,1053,1053,PASS,2026-08-14T08:48:01
+product_historical,product,1043,1043,PASS,2026-08-14T08:48:01
+product_incremental,product,1041,1041,PASS,2026-08-14T08:48:01
+sales_historical,sales,1002,1002,PASS,2026-08-14T08:48:01
+sales_incremental,sales,1000,1000,PASS,2026-08-14T08:48:01
