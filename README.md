@@ -24,12 +24,11 @@ Apex_Retail_Intelligence_Project/
 ├── Screenshots/
 │   
 ├── sample_outputs/                 <- REAL outputs produced by an actual run of the pipeline logic
-│   ├── landing/audit_report.csv
-│   ├── gold/dim_customer_sample.csv, dim_product_sample.csv, dim_promotion_sample.csv,
-│   │        dim_date_sample.csv, fact_sales_sample.csv
-│   └── kpi/kpi1_net_margin_by_region.csv ... kpi5_store_traffic_by_hour.csv
-└── logs/
-    └── pipeline_execution_log.txt  <- full console log from an actual end-to-end run
+    ├── landing/audit_report.csv
+    ├── gold/dim_customer_sample.csv, dim_product_sample.csv, dim_promotion_sample.csv,
+    │        dim_date_sample.csv, fact_sales_sample.csv
+    └── kpi/kpi1_net_margin_by_region.csv ... kpi5_store_traffic_by_hour.csv
+
 ```
 
 ## 2. How to read this submission
